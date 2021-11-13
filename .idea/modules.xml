@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe_with_AI.iml" filepath="$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe_with_AI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Adding values/Tic-Tac-Toe_with_AI.Problems-Adding_values.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Adding values/Tic-Tac-Toe_with_AI.Problems-Adding_values.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Adding values/Tic-Tac-Toe_with_AI.Problems-Adding_values.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Adding values/Tic-Tac-Toe_with_AI.Problems-Adding_values.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Adding values/Tic-Tac-Toe_with_AI.Problems-Adding_values.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Adding values/Tic-Tac-Toe_with_AI.Problems-Adding_values.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Application as a class/Tic-Tac-Toe_with_AI.Problems-Application_as_a_class.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Application as a class/Tic-Tac-Toe_with_AI.Problems-Application_as_a_class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Application as a class/Tic-Tac-Toe_with_AI.Problems-Application_as_a_class.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Application as a class/Tic-Tac-Toe_with_AI.Problems-Application_as_a_class.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Application as a class/Tic-Tac-Toe_with_AI.Problems-Application_as_a_class.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Application as a class/Tic-Tac-Toe_with_AI.Problems-Application_as_a_class.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Get first and last elements/Tic-Tac-Toe_with_AI.Problems-Get_first_and_last_elements.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Get first and last elements/Tic-Tac-Toe_with_AI.Problems-Get_first_and_last_elements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Get first and last elements/Tic-Tac-Toe_with_AI.Problems-Get_first_and_last_elements.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Get first and last elements/Tic-Tac-Toe_with_AI.Problems-Get_first_and_last_elements.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Get first and last elements/Tic-Tac-Toe_with_AI.Problems-Get_first_and_last_elements.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Get first and last elements/Tic-Tac-Toe_with_AI.Problems-Get_first_and_last_elements.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Inverse boolean flags/Tic-Tac-Toe_with_AI.Problems-Inverse_boolean_flags.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Inverse boolean flags/Tic-Tac-Toe_with_AI.Problems-Inverse_boolean_flags.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Inverse boolean flags/Tic-Tac-Toe_with_AI.Problems-Inverse_boolean_flags.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Inverse boolean flags/Tic-Tac-Toe_with_AI.Problems-Inverse_boolean_flags.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Inverse boolean flags/Tic-Tac-Toe_with_AI.Problems-Inverse_boolean_flags.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Inverse boolean flags/Tic-Tac-Toe_with_AI.Problems-Inverse_boolean_flags.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Sorting numbers/Tic-Tac-Toe_with_AI.Problems-Sorting_numbers.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Sorting numbers/Tic-Tac-Toe_with_AI.Problems-Sorting_numbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Sorting numbers/Tic-Tac-Toe_with_AI.Problems-Sorting_numbers.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Sorting numbers/Tic-Tac-Toe_with_AI.Problems-Sorting_numbers.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Sorting numbers/Tic-Tac-Toe_with_AI.Problems-Sorting_numbers.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Sorting numbers/Tic-Tac-Toe_with_AI.Problems-Sorting_numbers.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe with AI/task/Tic-Tac-Toe_with_AI.Tic-Tac-Toe_with_AI-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe with AI/task/Tic-Tac-Toe_with_AI.Tic-Tac-Toe_with_AI-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe with AI/task/Tic-Tac-Toe_with_AI.Tic-Tac-Toe_with_AI-task.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe with AI/task/Tic-Tac-Toe_with_AI.Tic-Tac-Toe_with_AI-task.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe with AI/task/Tic-Tac-Toe_with_AI.Tic-Tac-Toe_with_AI-task.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe with AI/task/Tic-Tac-Toe_with_AI.Tic-Tac-Toe_with_AI-task.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Tic-Tac-Toe_with_AI.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Tic-Tac-Toe_with_AI.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Tic-Tac-Toe_with_AI.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Tic-Tac-Toe_with_AI.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Tic-Tac-Toe_with_AI.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Tic-Tac-Toe_with_AI.util.test.iml" />
+    </modules>
+  </component>
+</project>
